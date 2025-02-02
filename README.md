@@ -1,6 +1,3 @@
-# automatic-university-id-generator
-A web application for generating and downloading university ID cards automatically, using HTML, CSS, JavaScript, PHP, and a XAMPP local host for database management.
-
 # Automatic University ID Card Generator 🎓
 
 This project is a web-based application designed to simplify the process of generating and downloading university ID cards. Built with HTML, CSS, JavaScript, and PHP, it allows users to input their information, view a live preview of their ID card, and download it as an image or PDF. The database is managed using a XAMPP local host.
